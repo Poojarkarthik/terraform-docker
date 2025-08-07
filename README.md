@@ -18,13 +18,6 @@ Provision a local Docker container using **Terraform** to demonstrate Infrastruc
 - `.terraform.lock.hcl` — Provider lock file
 - `screenshots/` — Output of terminal and browser
 
-## 🖥️ Output
-### ✅ Terraform Apply Success
-![Terraform Apply Screenshot](screentshots/terraform apply.png)
-
-### 🌐 NGINX Page
-![NGINX Screenshot](screentshots/nginx.png)
-
 ## 🧹 Cleanup
 To destroy the container:
 ```bash
